@@ -1,0 +1,7 @@
+Total Votes in DB: 2
+Sample Vote PositionID: 698914ddc0fbcc3142e37e4d
+Sample Vote CandidateID: 698914ddc0fbcc3142e37e4e
+Position: Gudoomiyaha Ardayda (ID: 698914ddc0fbcc3142e37e4d)
+  Votes: 2
+    Candidate: abdul (ID: 698914ddc0fbcc3142e37e4e) - Votes: 2
+    Candidate: abdul (ID: 698914ddc0fbcc3142e37e4f) - Votes: 0
