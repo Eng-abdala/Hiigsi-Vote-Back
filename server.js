@@ -2,10 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const app = require('./app');
 
-mongoose.connect('mongodb+srv://abdul482561_db_user:t4zTRM0Y5f0DBWy8@hiigsi.pbnv9om.mongodb.net/?appName=Hiigsi/voting_system', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-})
+mongoose.connect('mongodb+srv://abdul482561_db_user:t4zTRM0Y5f0DBWy8@hiigsi.pbnv9om.mongodb.net/?appName=Hiigsi')
 .then(() => {
   console.log('Connected to MongoDB');
 })
